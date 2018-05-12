@@ -1,0 +1,43 @@
+_repo: Paljo-melua-tyhj-st-_42898
+_version: 0.1.0
+alternative_title: Much ado about nothing. Finnish
+contributor:
+  translator:
+    agent_name: Cajander, Paavo Emil
+    birthdate: 1846
+    deathdate: 1913
+    gutenberg_agent_id: '4531'
+    url: http://www.gutenberg.org/2009/agents/4531
+    wikipedia: http://fi.wikipedia.org/wiki/Paavo_Cajander
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Shakespeare, William
+    aliases:
+    - Shakspere, William
+    - Shakspeare, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
+description: ''
+gutenberg_issued: '2013-06-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42898'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Conspiracies -- Drama'
+- !lcsh 'Rejection (Psychology) -- Drama'
+- !lcsh 'Messina (Italy) -- Drama'
+- !lcsh 'Courtship -- Drama'
+- !lcsh 'Comedies'
+title: Paljo melua tyhjästä
+url: http://www.gutenberg.org/ebooks/42898
