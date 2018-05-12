@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/65
     wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42898#Paljo-melua-tyhj-st-
 gutenberg_issued: '2013-06-09'
 gutenberg_type: Text
 identifiers:
